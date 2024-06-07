@@ -1,0 +1,11 @@
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\bin\Debug\net8.0\AppGestionEntities.deps.json
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\bin\Debug\net8.0\AppGestionEntities.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\bin\Debug\net8.0\AppGestionEntities.pdb
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\AppGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\AppGestionEntities.AssemblyInfoInputs.cache
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\AppGestionEntities.AssemblyInfo.cs
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\AppGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\AppGestionEntities.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\refint\AppGestionEntities.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\AppGestionEntities.pdb
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\ref\AppGestionEntities.dll

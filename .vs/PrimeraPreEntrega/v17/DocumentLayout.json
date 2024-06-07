@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosdata\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|solutionrelative:appusuariosdata\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosdata\\usuariosdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|solutionrelative:appusuariosdata\\usuariosdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosdata\\productosvendidosdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|solutionrelative:appusuariosdata\\productosvendidosdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosdata\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|solutionrelative:appusuariosdata\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\AppGestionUserInterface.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\primerapreentrega\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\AppGestionUserInterface.csproj|solutionrelative:primerapreentrega\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\AppGestionUserInterface.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\primerapreentrega\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\AppGestionUserInterface.csproj|solutionrelative:primerapreentrega\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\AppUsuariosUserInterface.csproj|C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\primerapreentrega\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\AppUsuariosUserInterface.csproj|solutionrelative:primerapreentrega\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\PrimeraPreEntrega.csproj|C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\primerapreentrega\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\PrimeraPreEntrega.csproj|solutionrelative:primerapreentrega\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaData.cs",
+              "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\VentaData.cs",
+              "RelativeDocumentMoniker": "AppUsuariosData\\VentaData.cs",
+              "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\VentaData.cs",
+              "RelativeToolTip": "AppUsuariosData\\VentaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:00:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosData.cs",
+              "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\UsuariosData.cs",
+              "RelativeDocumentMoniker": "AppUsuariosData\\UsuariosData.cs",
+              "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\UsuariosData.cs",
+              "RelativeToolTip": "AppUsuariosData\\UsuariosData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:00:40.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosVendidosData.cs",
+              "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\ProductosVendidosData.cs",
+              "RelativeDocumentMoniker": "AppUsuariosData\\ProductosVendidosData.cs",
+              "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\ProductosVendidosData.cs",
+              "RelativeToolTip": "AppUsuariosData\\ProductosVendidosData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:00:34.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\ProductoData.cs",
+              "RelativeDocumentMoniker": "AppUsuariosData\\ProductoData.cs",
+              "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\ProductoData.cs",
+              "RelativeToolTip": "AppUsuariosData\\ProductoData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:59:11.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PrimeraPreEntrega\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.Designer.cs",
+              "RelativeToolTip": "PrimeraPreEntrega\\Form1.Designer.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAWwJsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:59:11.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimeraPreEntrega\\Form1.cs",
+              "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PrimeraPreEntrega\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:03:01.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimeraPreEntrega\\Form1.cs",
+              "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.cs",
+              "RelativeToolTip": "PrimeraPreEntrega\\Form1.cs",
+              "ViewState": "AQIAAAMDAAAAAAAAAAAYwBEDAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:44:24.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimeraPreEntrega\\Form1.cs",
+              "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PrimeraPreEntrega\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:52:47.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

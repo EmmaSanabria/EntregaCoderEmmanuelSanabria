@@ -1,0 +1,17 @@
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\bin\Debug\net8.0\AppUsuariosBussiness.deps.json
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\bin\Debug\net8.0\AppUsuariosBussiness.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\bin\Debug\net8.0\AppUsuariosBussiness.pdb
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\bin\Debug\net8.0\AppUsuariosData.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\bin\Debug\net8.0\AppUsuariosEntities.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\bin\Debug\net8.0\AppUsuariosData.pdb
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\bin\Debug\net8.0\AppUsuariosEntities.pdb
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppUsuariosBussiness.csproj.AssemblyReference.cache
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppUsuariosBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppUsuariosBussiness.AssemblyInfoInputs.cache
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppUsuariosBussiness.AssemblyInfo.cs
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppUsuariosBussiness.csproj.CoreCompileInputs.cache
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppUsuar.04C934E8.Up2Date
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppUsuariosBussiness.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\refint\AppUsuariosBussiness.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppUsuariosBussiness.pdb
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\ref\AppUsuariosBussiness.dll

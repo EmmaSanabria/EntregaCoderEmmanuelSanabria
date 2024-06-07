@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosBussiness\\AppUsuariosBussiness.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosBussiness\\AppUsuariosBussiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosBussiness\\AppUsuariosBussiness.csproj",
+        "projectName": "AppUsuariosBussiness",
+        "projectPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosBussiness\\AppUsuariosBussiness.csproj",
+        "packagesPath": "C:\\Users\\resim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosBussiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\resim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\AppUsuariosData.csproj": {
+                "projectPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\AppUsuariosData.csproj"
+              },
+              "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosEntities\\AppUsuariosEntities.csproj": {
+                "projectPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosEntities\\AppUsuariosEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\AppUsuariosData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\AppUsuariosData.csproj",
+        "projectName": "AppUsuariosData",
+        "projectPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\AppUsuariosData.csproj",
+        "packagesPath": "C:\\Users\\resim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\resim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosEntities\\AppUsuariosEntities.csproj": {
+                "projectPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosEntities\\AppUsuariosEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosEntities\\AppUsuariosEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosEntities\\AppUsuariosEntities.csproj",
+        "projectName": "AppUsuariosEntities",
+        "projectPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosEntities\\AppUsuariosEntities.csproj",
+        "packagesPath": "C:\\Users\\resim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\resim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
