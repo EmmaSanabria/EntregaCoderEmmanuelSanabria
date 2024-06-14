@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zSeYdylcEyBJ151Xun0EUAy5FVVwdkT0gLud+cIpCrE=",
+  "Source": "AppVentaUserAPI",
+  "BasePath": "_content/AppVentaUserAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

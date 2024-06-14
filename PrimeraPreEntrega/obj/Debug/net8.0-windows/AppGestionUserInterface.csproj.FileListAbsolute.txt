@@ -28,3 +28,4 @@ C:\Users\resim\source\repos\PrimeraPreEntrega\PrimeraPreEntrega\obj\Debug\net8.0
 C:\Users\resim\source\repos\PrimeraPreEntrega\PrimeraPreEntrega\obj\Debug\net8.0-windows\AppGestionUserInterface.pdb
 C:\Users\resim\source\repos\PrimeraPreEntrega\PrimeraPreEntrega\obj\Debug\net8.0-windows\AppGestionUserInterface.genruntimeconfig.cache
 C:\Users\resim\source\repos\PrimeraPreEntrega\PrimeraPreEntrega\obj\Debug\net8.0-windows\ref\AppGestionUserInterface.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\PrimeraPreEntrega\obj\Debug\net8.0-windows\AppGestionUserInterface.sourcelink.json

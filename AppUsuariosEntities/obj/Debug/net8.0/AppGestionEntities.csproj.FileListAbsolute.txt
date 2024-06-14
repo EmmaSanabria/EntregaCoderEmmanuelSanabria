@@ -9,3 +9,4 @@ C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8
 C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\refint\AppGestionEntities.dll
 C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\AppGestionEntities.pdb
 C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\ref\AppGestionEntities.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosEntities\obj\Debug\net8.0\AppGestionEntities.sourcelink.json

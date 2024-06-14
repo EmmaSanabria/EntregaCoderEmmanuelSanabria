@@ -1,19 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using AppUsuariosData;
-using AppUsuariosEntities;
 using PrimeraPreEntrega;
 
-namespace AppUsuariosBussiness
+namespace AppUsuariosBusiness
 {
-    public class UsuariosBussiness
+    public class UsuariosBusiness
     {
-        public static List<Usuarios> GetUsuario()
+        public static List<Usuarios> GetUsuarios()
         {
-            return UsuariosData.GetUsuario();
+            return UsuariosData.GetUsuarios();
+        }
+
+        public static void CreateUsuario(Usuarios usuario)
+        {
+            UsuariosData.CreateUsuario(usuario);
+        }
+
+        public static void UpdateUsuario(Usuarios usuario)
+        {
+            UsuariosData.UpdateUsuario(usuario);
+        }
+
+        public static void DeleteUsuario(int id)
+        {
+            UsuariosData.DeleteUsuario(id);
         }
     }
 }

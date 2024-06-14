@@ -15,3 +15,4 @@ C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net
 C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\refint\AppGestionBussiness.dll
 C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppGestionBussiness.pdb
 C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\ref\AppGestionBussiness.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosBussiness\obj\Debug\net8.0\AppGestionBussiness.sourcelink.json

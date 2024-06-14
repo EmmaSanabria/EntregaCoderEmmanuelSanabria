@@ -13,3 +13,4 @@ C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosData\obj\Debug\net8.0\A
 C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosData\obj\Debug\net8.0\refint\AppGestionData.dll
 C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosData\obj\Debug\net8.0\AppGestionData.pdb
 C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosData\obj\Debug\net8.0\ref\AppGestionData.dll
+C:\Users\resim\source\repos\PrimeraPreEntrega\AppUsuariosData\obj\Debug\net8.0\AppGestionData.sourcelink.json

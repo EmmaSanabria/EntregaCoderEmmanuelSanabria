@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PrimeraPreEntrega
+﻿namespace PrimeraPreEntrega
 {
     public class Usuarios
     {
@@ -70,5 +64,4 @@ namespace PrimeraPreEntrega
             set { this._Mail = value; }
         }
     }
-
 }

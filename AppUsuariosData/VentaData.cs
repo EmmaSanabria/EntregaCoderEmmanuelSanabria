@@ -1,51 +1,118 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data.SqlClient;
-using AppUsuariosEntities;  
+using System.Data;
+using AppUsuariosEntities;
 
 namespace AppUsuariosData
 {
     public static class VentaData
     {
-        public static List<Venta> GetVenta()
-        {
-            string connectionString = @"Server=localhost; Database=Producto; Trusted_Connection=True";
-            List<Venta> listaVenta = new List<Venta>();
+        private static string connectionString = @"Server=localhost; Database=Producto; Trusted_Connection=True";
 
+        public static List<Venta> GetVentas()
+        {
+            List<Venta> listaVentas = new List<Venta>();
             string query = "SELECT * FROM Venta";
+
             try
             {
-
-                using (SqlConnection con = new SqlConnection(connectionString))
+                using (SqlConnection conexion = new SqlConnection(connectionString))
                 {
-                    con.Open();
-                    using (SqlCommand cmd = new SqlCommand(query, con))
+                    conexion.Open();
+                    using (SqlCommand command = new SqlCommand(query, conexion))
                     {
-                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        using (SqlDataReader dr = command.ExecuteReader())
                         {
-                            if (reader.HasRows)
+                            while (dr.Read())
                             {
-                                while (reader.Read())
+                                Venta venta = new Venta
                                 {
-                                    Venta venta = new Venta();
-                                    venta.id = Convert.ToInt32(reader["ID"]);
-                                    venta.comentarios = reader["COMENTARIOS"].ToString();
-                                    venta.idUsuario = Convert.ToInt32(reader["ID_USUARIO"]);
-                                    listaVenta.Add(venta);
-                                }
+                                    id = Convert.ToInt32(dr["Id"]),
+                                    comentarios = dr["Comentarios"].ToString(),
+                                    idUsuario = Convert.ToInt32(dr["IdUsuario"])
+                                };
+
+                                listaVentas.Add(venta);
                             }
-                            return listaVenta;
                         }
                     }
-                    con.Close();
                 }
             }
             catch (Exception ex)
             {
-                return listaVenta;
+                // Manejar la excepción (por ejemplo, loguear el error)
+            }
+
+            return listaVentas;
+        }
+
+        public static void CreateVenta(Venta venta)
+        {
+            string insertQuery = "INSERT INTO Venta (Comentarios, IdUsuario) VALUES (@Comentarios, @IdUsuario)";
+
+            try
+            {
+                using (SqlConnection conexion = new SqlConnection(connectionString))
+                {
+                    conexion.Open();
+                    using (SqlCommand command = new SqlCommand(insertQuery, conexion))
+                    {
+                        command.Parameters.AddWithValue("@Comentarios", venta.comentarios);
+                        command.Parameters.AddWithValue("@IdUsuario", venta.idUsuario);
+                        command.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                // Manejar la excepción (por ejemplo, loguear el error)
+            }
+        }
+
+        public static void UpdateVenta(Venta venta)
+        {
+            string updateQuery = "UPDATE Venta SET Comentarios=@Comentarios, IdUsuario=@IdUsuario WHERE Id=@Id";
+
+            try
+            {
+                using (SqlConnection conexion = new SqlConnection(connectionString))
+                {
+                    conexion.Open();
+                    using (SqlCommand command = new SqlCommand(updateQuery, conexion))
+                    {
+                        command.Parameters.AddWithValue("@Id", venta.id);
+                        command.Parameters.AddWithValue("@Comentarios", venta.comentarios);
+                        command.Parameters.AddWithValue("@IdUsuario", venta.idUsuario);
+                        command.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                // Manejar la excepción (por ejemplo, loguear el error)
+            }
+        }
+
+        public static void DeleteVenta(int id)
+        {
+            string deleteQuery = "DELETE FROM Venta WHERE Id=@Id";
+
+            try
+            {
+                using (SqlConnection conexion = new SqlConnection(connectionString))
+                {
+                    conexion.Open();
+                    using (SqlCommand command = new SqlCommand(deleteQuery, conexion))
+                    {
+                        command.Parameters.AddWithValue("@Id", id);
+                        command.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                // Manejar la excepción (por ejemplo, loguear el error)
             }
         }
     }

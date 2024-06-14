@@ -46,12 +46,12 @@ namespace PrimeraPreEntrega
                         {
                             var producto = new Producto
                             {
-                                id = Convert.ToInt32(dr["Id"]),
-                                descripcion = dr["Descripcion"].ToString(),
-                                costo = Convert.ToDouble(dr["Costo"]),
-                                precioVenta = Convert.ToDouble(dr["PrecioVenta"]),
-                                stock = Convert.ToInt32(dr["Stock"]),
-                                idUsuario = Convert.ToInt32(dr["IdUsuario"])
+                                Id = Convert.ToInt32(dr["Id"]),
+                                Descripcion = dr["Descripcion"].ToString(),
+                                Costo = Convert.ToDouble(dr["Costo"]),
+                                PrecioVenta = Convert.ToDouble(dr["PrecioVenta"]),
+                                Stock = Convert.ToInt32(dr["Stock"]),
+                                IdUsuario = Convert.ToInt32(dr["IdUsuario"])
                             };
 
                             listaProducto.Add(producto);
@@ -151,10 +151,10 @@ namespace PrimeraPreEntrega
                             while (reader.Read())
                             {
                                 var productosVendidos = new ProductosVendidos();
-                                productosVendidos.id = Convert.ToInt32(reader["id"]);
-                                productosVendidos.idProducto = Convert.ToInt32(reader["idProducto"]);
-                                productosVendidos.stock = Convert.ToInt32(reader["stock"]);
-                                productosVendidos.idVenta = Convert.ToInt32(reader["idVenta"]);
+                                productosVendidos.Id = Convert.ToInt32(reader["id"]);
+                                productosVendidos.IdProducto = Convert.ToInt32(reader["idProducto"]);
+                                productosVendidos.Stock = Convert.ToInt32(reader["stock"]);
+                                productosVendidos.IdVenta = Convert.ToInt32(reader["idVenta"]);
                                 listaProductosVendidos.Add(productosVendidos);
                             }
                         }
@@ -470,10 +470,10 @@ namespace PrimeraPreEntrega
                                 {
                                     var productosVendidos = new ProductosVendidos
                                     {
-                                        id = Convert.ToInt32(reader["id"]),
-                                        idProducto = Convert.ToInt32(reader["idProducto"]),
-                                        stock = Convert.ToInt32(reader["stock"]),
-                                        idVenta = Convert.ToInt32(reader["idVenta"])
+                                        Id = Convert.ToInt32(reader["id"]),
+                                        IdProducto = Convert.ToInt32(reader["idProducto"]),
+                                        Stock = Convert.ToInt32(reader["stock"]),
+                                        IdVenta = Convert.ToInt32(reader["idVenta"])
 
                                     };
                                     listaProductosVendidos.Add(productosVendidos);
@@ -526,12 +526,12 @@ namespace PrimeraPreEntrega
                                 {
                                     var producto = new Producto
                                     {
-                                        id = Convert.ToInt32(dr["Id"]),
-                                        descripcion = dr["Descripcion"].ToString(),
-                                        costo = Convert.ToDouble(dr["Costo"]),
-                                        precioVenta = Convert.ToDouble(dr["PrecioVenta"]),
-                                        stock = Convert.ToInt32(dr["Stock"]),
-                                        idUsuario = Convert.ToInt32(dr["IdUsuario"])
+                                        Id = Convert.ToInt32(dr["Id"]),
+                                        Descripcion = dr["Descripcion"].ToString(),
+                                        Costo = Convert.ToDouble(dr["Costo"]),
+                                        PrecioVenta = Convert.ToDouble(dr["PrecioVenta"]),
+                                        Stock = Convert.ToInt32(dr["Stock"]),
+                                        IdUsuario = Convert.ToInt32(dr["IdUsuario"])
                                     };
                                     listaProductos.Add(producto);
                                     return listaProductos;

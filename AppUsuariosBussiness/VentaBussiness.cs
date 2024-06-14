@@ -1,18 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using AppUsuariosData;
 using AppUsuariosEntities;
 
-namespace AppUsuariosBussiness
+namespace AppUsuariosBusiness
 {
-    public class VentaBussiness
+    public class VentaBusiness
     {
-        public static List<Venta> GetVenta()
+        public static List<Venta> GetVentas()
         {
-            return VentaData.GetVenta();
+            return VentaData.GetVentas();
+        }
+
+        public static void CreateVenta(Venta venta)
+        {
+            VentaData.CreateVenta(venta);
+        }
+
+        public static void UpdateVenta(Venta venta)
+        {
+            VentaData.UpdateVenta(venta);
+        }
+
+        public static void DeleteVenta(int id)
+        {
+            VentaData.DeleteVenta(id);
         }
     }
 }

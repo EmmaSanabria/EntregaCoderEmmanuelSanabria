@@ -1,20 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AppUsuariosEntities
+﻿namespace AppUsuariosEntities
 {
-
     public class Venta
     {
         private int Id;
         private string Comentarios;
         private int IdUsuario;
 
-
         public Venta() { }
+
         public Venta(int id, string comentarios, int idUsuario)
         {
             this.Id = id;
@@ -27,6 +20,7 @@ namespace AppUsuariosEntities
             get { return this.Id; }
             set { this.Id = value; }
         }
+
         public string comentarios
         {
             get { return this.Comentarios; }
