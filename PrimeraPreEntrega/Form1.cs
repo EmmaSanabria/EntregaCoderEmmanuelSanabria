@@ -13,9 +13,10 @@ namespace PrimeraPreEntrega
             InitializeComponent();
         }
 
+
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Listar los productos al cargar el formulario
+            // Listar los productos al cargar el  formulario
             dgProductos.AutoGenerateColumns = true;
             dgProductos.DataSource = Listar_Productos();
 
