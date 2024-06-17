@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosdata\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|solutionrelative:appusuariosdata\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosdata\\usuariosdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|solutionrelative:appusuariosdata\\usuariosdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11784AD0-B420-44D7-98FE-44D5889497CE}|AppUsuariosBussiness\\AppGestionBussiness.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosbussiness\\ventabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11784AD0-B420-44D7-98FE-44D5889497CE}|AppUsuariosBussiness\\AppGestionBussiness.csproj|solutionrelative:appusuariosbussiness\\ventabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\AppGestionUserInterface.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\primerapreentrega\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B01DC51-512B-4863-9BD8-BEF3050EF9CC}|PrimeraPreEntrega\\AppGestionUserInterface.csproj|solutionrelative:primerapreentrega\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{53938204-1FCC-4E74-8CE6-C8829A90BEBE}|AppUsuariosEntities\\AppGestionEntities.csproj|solutionrelative:appusuariosentities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11784AD0-B420-44D7-98FE-44D5889497CE}|AppUsuariosBussiness\\AppGestionBussiness.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosbussiness\\ventabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11784AD0-B420-44D7-98FE-44D5889497CE}|AppUsuariosBussiness\\AppGestionBussiness.csproj|solutionrelative:appusuariosbussiness\\ventabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosdata\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|solutionrelative:appusuariosdata\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DDA6677-2B0B-4509-BD4F-21C6330EC7F2}|WebApplication1\\WebApplication1.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\webapplication1\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DDA6677-2B0B-4509-BD4F-21C6330EC7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosdata\\usuariosdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|solutionrelative:appusuariosdata\\usuariosdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53938204-1FCC-4E74-8CE6-C8829A90BEBE}|AppUsuariosEntities\\AppGestionEntities.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosentities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,23 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "VentaData.cs",
               "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\VentaData.cs",
               "RelativeDocumentMoniker": "AppUsuariosData\\VentaData.cs",
               "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\VentaData.cs",
               "RelativeToolTip": "AppUsuariosData\\VentaData.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAIwHcAAAAAAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAADwv3MAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T19:18:12.426Z"
+              "WhenOpened": "2024-06-13T19:18:12.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.cs",
               "RelativeDocumentMoniker": "PrimeraPreEntrega\\Form1.cs",
@@ -99,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.cs",
               "RelativeDocumentMoniker": "PrimeraPreEntrega\\Form1.cs",
@@ -110,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VentaController.cs",
               "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\WebApplication1\\Controllers\\VentaController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\VentaController.cs",
@@ -122,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "VentaBussiness.cs",
               "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosBussiness\\VentaBussiness.cs",
               "RelativeDocumentMoniker": "AppUsuariosBussiness\\VentaBussiness.cs",
@@ -134,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosEntities\\Venta.cs",
               "RelativeDocumentMoniker": "AppUsuariosEntities\\Venta.cs",
@@ -146,13 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "UsuariosData.cs",
               "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\UsuariosData.cs",
               "RelativeDocumentMoniker": "AppUsuariosData\\UsuariosData.cs",
               "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\UsuariosData.cs",
               "RelativeToolTip": "AppUsuariosData\\UsuariosData.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAA0wIAAAAAAAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAIwIAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T19:05:48.32Z"
             },
