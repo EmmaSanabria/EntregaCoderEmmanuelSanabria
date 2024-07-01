@@ -1,7 +1,9 @@
-﻿using AppUsuariosBussiness;
+﻿using AppUsuariosBusiness;
+using AppUsuariosBussiness;
 using AppUsuariosEntities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PrimeraPreEntrega;
 
 namespace WebApplication1.Controllers
 {
@@ -9,28 +11,36 @@ namespace WebApplication1.Controllers
     [ApiController]
     public class ProductoController : ControllerBase
     {
-        [HttpGet(Name = "GetProducto")]
+        [HttpGet]
         public IEnumerable<Producto> productos()
         {
             return ProductoBussiness.GetProduct().ToArray();
         }
 
-        [HttpDelete(Name = "EliminarProducto")]
-        public void Delete([FromBody] int id) 
-        {
-            ProductoBussiness.EliminarProducto(id);
-        }
-
-        [HttpPut(Name = "ModificarProducto")]
-        public void Put([FromBody] Producto producto) 
-        {
-            ProductoBussiness.ModificarProducto(producto);
-        }
-
-        [HttpPost(Name = "AltaProducto")]
-        public void Post([FromBody] Producto producto) 
+        [HttpPost]
+        public void Post([FromBody] Producto producto)
         {
             ProductoBussiness.AltaProducto(producto);
+        }
+
+
+        [HttpPut("{id}")]
+        public ActionResult Put(int id, [FromBody] Producto producto) 
+        {
+            if (id != producto.Id)
+            {
+                return BadRequest();
+            }
+            
+            ProductoBussiness.ModificarProducto(producto);
+            return NoContent();
+        }
+        
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
+        {
+            ProductoBussiness.EliminarProducto(id);
+            return NoContent();
         }
     }
 }

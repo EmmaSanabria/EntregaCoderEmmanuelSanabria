@@ -36,6 +36,7 @@ namespace WebApplication1.Controllers
             return NoContent();
         }
 
+
         [HttpDelete("{id}")]
         public ActionResult DeleteProductoVendido(int id)
         {
