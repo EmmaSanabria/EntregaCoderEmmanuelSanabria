@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DDA6677-2B0B-4509-BD4F-21C6330EC7F2}|WebApplication1\\WebApplication1.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\webapplication1\\controllers\\productosvendidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDA6677-2B0B-4509-BD4F-21C6330EC7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productosvendidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\appusuariosdata\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA7BE680-862C-4FFA-A939-5FBA2EC1E215}|AppUsuariosData\\AppGestionData.csproj|solutionrelative:appusuariosdata\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDA6677-2B0B-4509-BD4F-21C6330EC7F2}|WebApplication1\\WebApplication1.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\webapplication1\\controllers\\productosvendidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDA6677-2B0B-4509-BD4F-21C6330EC7F2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productosvendidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DDA6677-2B0B-4509-BD4F-21C6330EC7F2}|WebApplication1\\WebApplication1.csproj|c:\\users\\resim\\source\\repos\\primerapreentrega\\webapplication1\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductosVendidosController.cs",
               "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\WebApplication1\\Controllers\\ProductosVendidosController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductosVendidosController.cs",
@@ -63,18 +63,17 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\ProductoController.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAcwCUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T00:57:28.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T00:57:28.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductoData.cs",
               "DocumentMoniker": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\ProductoData.cs",
               "RelativeDocumentMoniker": "AppUsuariosData\\ProductoData.cs",
               "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\AppUsuariosData\\ProductoData.cs",
               "RelativeToolTip": "AppUsuariosData\\ProductoData.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAUAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T23:44:22.073Z",
               "EditorCaption": ""
@@ -89,8 +88,7 @@
               "RelativeToolTip": "AppUsuariosEntities\\AppGestionEntities.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-27T19:32:39.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T19:32:39.534Z"
             },
             {
               "$type": "Document",
@@ -114,8 +112,7 @@
               "ToolTip": "C:\\Users\\resim\\source\\repos\\PrimeraPreEntrega\\PrimeraPreEntrega\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "PrimeraPreEntrega\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:50:29.638Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-14T00:50:29.638Z"
             },
             {
               "$type": "Document",
